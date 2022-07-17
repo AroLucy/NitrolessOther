@@ -1,1198 +1,1334 @@
 {
-  "path" : "emotes",
+  "name" : "Lucy's Other Emotes",
   "emotes" : [
     {
-      "name" : "blobembarrassed",
+      "name" : "MochaThumbsUp",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "blobovo"
-    },
-    {
-      "name" : "agooglebrokenheart",
+      "name" : "milkpossessive",
       "type" : ".gif"
     },
     {
       "type" : ".gif",
-      "name" : "ablobmaracas"
+      "name" : "nyaHyperyay"
     },
     {
-      "name" : "ablobsweats",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobconfounded",
+      "name" : "huggies",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "blobconfused"
-    },
-    {
-      "name" : "ablobsurpriseblush",
+      "name" : "nyataptap",
       "type" : ".gif"
     },
     {
-      "type" : ".png",
-      "name" : "blobwavesob"
-    },
-    {
-      "name" : "blobstop",
+      "name" : "givelove",
       "type" : ".png"
     },
     {
-      "name" : "blobrageangry",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobsus",
-      "type" : ".png"
-    },
-    {
-      "name" : "googlechristmastree",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobkiss",
+      "name" : "mmKiss",
       "type" : ".gif"
     },
     {
-      "name" : "ablobcaramelldansen",
+      "name" : "sad",
       "type" : ".gif"
     },
     {
-      "type" : ".gif",
-      "name" : "ablobrollbounce"
-    },
-    {
-      "type" : ".png",
-      "name" : "blob3c"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobunamused"
-    },
-    {
-      "name" : "ablobnervous",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobnwn"
-    },
-    {
-      "name" : "ablobhop",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobkeyboard"
-    },
-    {
-      "name" : "blobokhand",
-      "type" : ".png"
-    },
-    {
-      "name" : "bloberm",
-      "type" : ".png"
-    },
-    {
-      "name" : "bloblamp",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobdoubt"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ab1nzyblob2"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobshrug"
-    },
-    {
-      "name" : "blobblush",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobwink",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobstare",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobcouncil"
-    },
-    {
-      "name" : "blobsad",
-      "type" : ".png"
-    },
-    {
-      "name" : "aphotoblob",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobabducted",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "agooglerainbowheart"
-    },
-    {
-      "type" : ".png",
-      "name" : "feelsblobman"
-    },
-    {
-      "name" : "ablobblewobble",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobthinking",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobmeltsoblove"
-    },
-    {
-      "name" : "ablobreach",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobrage",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobsnuggle"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobhungry"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobenjoysnow"
-    },
-    {
-      "name" : "bloboohcry",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobnom"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobmeltsoblove"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobmorning"
-    },
-    {
-      "name" : "blobkissheart",
-      "type" : ".png"
-    },
-    {
-      "name" : "athinkingwithblobs",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobnerd",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobstare"
-    },
-    {
-      "name" : "ablobwobroll",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobsweatsweary",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobcongarollbounce",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobuwu"
-    },
-    {
-      "name" : "ablobattention",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobwhistle",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobraisehand",
+      "name" : "massivegaw",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "blobsmiletear"
+      "name" : "Bonk"
     },
     {
-      "name" : "ajakeblob",
+      "name" : "ohwoah",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "blobembarrassed2"
+      "name" : "bye"
     },
     {
-      "name" : "blobdead",
+      "name" : "totallyrealbanhammer",
       "type" : ".png"
     },
     {
-      "name" : "ablobwavereverse",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobpropeller",
-      "type" : ".gif"
-    },
-    {
-      "name" : "bloblul",
+      "name" : "PandaLove",
       "type" : ".png"
     },
     {
-      "name" : "blobthinkingfast",
+      "name" : "dorime",
       "type" : ".png"
     },
     {
-      "name" : "ablobderpyhappy",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobparty"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobowo"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobbass"
-    },
-    {
-      "type" : ".gif",
-      "name" : "agoogletada"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobbounce"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobgrin"
-    },
-    {
-      "name" : "ablobpanic",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobderpy",
+      "name" : "shut",
       "type" : ".png"
     },
     {
-      "name" : "ablobnogood",
+      "name" : "winks",
       "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "hungrymilk"
     },
     {
       "type" : ".png",
-      "name" : "blobtrans"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobsquish"
+      "name" : "angery"
     },
     {
       "type" : ".png",
-      "name" : "blobwhistle"
+      "name" : "BlushAf"
     },
     {
-      "name" : "ablobthinkingeyes",
-      "type" : ".gif"
+      "name" : "ownerabuse",
+      "type" : ".png"
     },
     {
-      "name" : "blobnomnom",
+      "name" : "pikasip",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "googlegift"
+      "name" : "sus"
     },
     {
-      "name" : "agooglecat",
+      "type" : ".png",
+      "name" : "adminabooz"
+    },
+    {
+      "name" : "sip",
+      "type" : ".png"
+    },
+    {
+      "name" : "stobit",
+      "type" : ".png"
+    },
+    {
+      "name" : "sup",
+      "type" : ".png"
+    },
+    {
+      "name" : "DuckySMH",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "blobwavereverse"
+      "name" : "pepelook"
     },
     {
-      "name" : "blobthumbsup",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobsalute"
-    },
-    {
-      "name" : "ablobcheer",
+      "name" : "minuteTimer",
       "type" : ".gif"
     },
     {
-      "name" : "blobpain",
+      "name" : "wedontdothathere",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobreachfront"
+      "name" : "sfwpls"
     },
     {
-      "type" : ".png",
-      "name" : "blobangrypuff"
-    },
-    {
-      "name" : "ablobhearteyes",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobguitar"
-    },
-    {
-      "name" : "blobsadrain",
+      "name" : "marg",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobpats"
+      "name" : "wearybrad"
     },
     {
-      "type" : ".gif",
-      "name" : "ablobdancer"
+      "name" : "nu",
+      "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "blobpartlysunny"
-    },
-    {
-      "name" : "ablobpainrain",
+      "name" : "mochjcat",
       "type" : ".gif"
     },
     {
-      "name" : "ablobsplosion",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobthumbsdown",
+      "name" : "mmPartyCelebrateMocha",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobangry2"
+      "name" : "wat"
     },
     {
-      "type" : ".png",
-      "name" : "blobomo"
-    },
-    {
-      "name" : "blobnomcookie",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobglarezoom"
-    },
-    {
-      "name" : "ablobnom",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobscream"
-    },
-    {
-      "name" : "blobderpyhappy",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobweary",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobhushed",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobsleeping",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobenjoy",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobmelting",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobinlove"
-    },
-    {
-      "name" : "awolfiriblob",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobshrug",
+      "name" : "waitwhat",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobpainpats"
+      "name" : "pepeWOAH"
     },
     {
-      "type" : ".png",
-      "name" : "blobpeek"
-    },
-    {
-      "name" : "blobgo",
+      "name" : "angycat",
       "type" : ".png"
     },
     {
-      "name" : "ablobthinking",
+      "name" : "staphtheping",
       "type" : ".gif"
     },
     {
-      "name" : "blobglareannoyed",
+      "name" : "touchgrasswhen",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobsip"
+      "name" : "hewwo"
     },
     {
-      "type" : ".gif",
-      "name" : "ablobanvil"
-    },
-    {
-      "name" : "ablobhologram",
+      "name" : "peperobber",
       "type" : ".gif"
     },
     {
-      "name" : "redtick",
+      "name" : "SIMP",
       "type" : ".png"
     },
     {
-      "name" : "blobowoevil",
+      "name" : "waitwhaa",
       "type" : ".png"
     },
     {
-      "name" : "blobcocoa",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobwob",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "thinkingwithblobs"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobthinkzerogravity"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobsadrain"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobcheer"
-    },
-    {
-      "name" : "blobnight",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobono"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobwoah"
-    },
-    {
-      "name" : "b1nzyblob2",
-      "type" : ".png"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobhyperthink"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobdrum"
-    },
-    {
-      "name" : "ablobangel",
+      "name" : "freemoney",
       "type" : ".gif"
     },
     {
       "type" : ".gif",
-      "name" : "ablobcolorshift"
+      "name" : "winky"
     },
     {
-      "type" : ".png",
-      "name" : "blobsweats"
-    },
-    {
-      "name" : "ablobwobwork",
+      "name" : "milkgiggle",
       "type" : ".gif"
     },
     {
-      "type" : ".gif",
-      "name" : "agoogle100"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobunamused"
-    },
-    {
-      "name" : "blobslightsmile",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobangery",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobpanic2",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobcouple",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobeyesdown",
-      "type" : ".gif"
-    },
-    {
-      "name" : "googleredheart",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobgiggle"
-    },
-    {
-      "name" : "ablobjam",
+      "name" : "pup_jump",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "blobfacepalm"
+      "name" : "buggsno"
     },
     {
-      "type" : ".gif",
-      "name" : "ablobflushed"
-    },
-    {
-      "name" : "arainblob",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobreachsob"
-    },
-    {
-      "name" : "abloblurk",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobclipboard",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobthinkingglare",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobno",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobpats",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobheadshake"
-    },
-    {
-      "name" : "ablobbouncefast",
+      "name" : "dogconfused",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "blobfingerguns"
+      "name" : "DomBeLike"
     },
     {
-      "name" : "blob3cuwu",
+      "name" : "nyatwirl",
+      "type" : ".gif"
+    },
+    {
+      "name" : "cmon",
+      "type" : ".png"
+    },
+    {
+      "name" : "mmaPingMocha",
+      "type" : ".gif"
+    },
+    {
+      "name" : "pepeShrugCry",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blob"
-    },
-    {
-      "name" : "ablobdrool",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobwoah",
-      "type" : ".gif"
-    },
-    {
-      "name" : "b1nzyblob",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "abloblamp"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobonfire"
+      "name" : "PeepoPing"
     },
     {
       "type" : ".png",
-      "name" : "blobthinkingdown"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobderpy"
+      "name" : "milkmochacuddle"
     },
     {
       "type" : ".png",
-      "name" : "blobbathtub"
+      "name" : "youremylove"
     },
     {
-      "type" : ".gif",
-      "name" : "ablobnomcookie"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobwob"
-    },
-    {
-      "name" : "blobcmereyou",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobdizzy"
-    },
-    {
-      "name" : "ablobreachreverse",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "notlikeblob"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobenjoy"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobmicrophone"
-    },
-    {
-      "name" : "ablobgrimace",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobthonkang",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobfingerscrossed",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobcry",
-      "type" : ".gif"
-    },
-    {
-      "name" : "agooglethumbsdown",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobsaxophone",
-      "type" : ".gif"
-    },
-    {
-      "name" : "acongablob",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobaww"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobpainpats"
-    },
-    {
-      "type" : ".png",
-      "name" : "blob3cevil"
-    },
-    {
-      "name" : "greentick",
-      "type" : ".png"
-    },
-    {
-      "name" : "agooglecake",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobsneezing"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobpopcorn"
-    },
-    {
-      "name" : "agooglethumbsup",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobgift",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobmelt"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobsweating"
-    },
-    {
-      "name" : "b4nzyblob",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobmelt",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobpeek",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "agooglebee"
-    },
-    {
-      "name" : "ablobgoodnight",
-      "type" : ".gif"
-    },
-    {
-      "name" : "adontfeelsoblob",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobpopcorn",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobsecret",
-      "type" : ".png"
-    },
-    {
-      "name" : "blob0w0",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobsunglasses",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobooh"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobwave"
-    },
-    {
-      "name" : "blobreachreverse",
+      "name" : "idk",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobmeltblush"
+      "name" : "CryingPanda"
     },
     {
-      "name" : "ablobrage",
+      "name" : "MargLovesHorseBoys",
+      "type" : ".png"
+    },
+    {
+      "name" : "cute_dance",
       "type" : ".gif"
     },
     {
-      "name" : "blobthinkingeyes",
-      "type" : ".png"
-    },
-    {
       "type" : ".gif",
-      "name" : "ablobtoiletflush"
-    },
-    {
-      "name" : "blobgoodnightreverse",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobpolice",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobsmilehappy"
-    },
-    {
-      "name" : "ablobwavesob",
-      "type" : ".gif"
+      "name" : "patpat"
     },
     {
       "type" : ".png",
-      "name" : "blobmeltsob"
+      "name" : "welcome"
     },
     {
-      "name" : "blobglare",
+      "name" : "potatosnuggle",
       "type" : ".png"
     },
     {
-      "type" : ".png",
-      "name" : "blobexpressionless"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobspy"
-    },
-    {
-      "name" : "apartyblob",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobsmile"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobwoahopenmouth"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobgrumpy"
-    },
-    {
-      "name" : "ablobglitch",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobsadpats"
-    },
-    {
-      "name" : "ablobtonguewink",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobhydraulicpress",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobdrool",
+      "name" : "sexyelmo",
       "type" : ".png"
     },
     {
       "type" : ".gif",
-      "name" : "ablobleave"
+      "name" : "pepeTos"
     },
     {
-      "type" : ".gif",
-      "name" : "ablobbanhammer"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobattentionreverse"
-    },
-    {
-      "type" : ".gif",
-      "name" : "agoogleturtle"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobglarezoombutfast"
-    },
-    {
-      "name" : "blobgoodnight",
+      "name" : "goodgood",
       "type" : ".png"
     },
     {
-      "name" : "ablobsmooch",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobshh",
+      "name" : "them",
       "type" : ".png"
     },
     {
-      "name" : "agooglehearts",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobgoodmorningreverse"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobgiggle"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobsigh"
-    },
-    {
-      "name" : "ablobsleepy",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobuwu",
+      "name" : "TogepiBlush",
       "type" : ".png"
     },
     {
-      "name" : "blobsob",
+      "name" : "CatGlareSip",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobparty"
+      "name" : "mmScaredMilk"
+    },
+    {
+      "type" : ".png",
+      "name" : "stonks"
+    },
+    {
+      "type" : ".png",
+      "name" : "byekick"
     },
     {
       "type" : ".gif",
-      "name" : "ablobrollingeyes"
+      "name" : "catplead"
     },
     {
-      "name" : "agoogleclap",
+      "name" : "udeservethis",
       "type" : ".gif"
     },
     {
-      "name" : "blobowosquint",
+      "name" : "pikajoy",
       "type" : ".png"
     },
     {
-      "name" : "blobsalute",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobjoy",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobheart",
-      "type" : ".png"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobjoin"
-    },
-    {
-      "name" : "blobaffection",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobcouple",
+      "name" : "brickyou",
       "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobowo"
+      "name" : "kekw"
     },
     {
-      "name" : "ablobsleep",
-      "type" : ".gif"
-    },
-    {
-      "type" : ".png",
-      "name" : "blobwaitwhat"
-    },
-    {
-      "name" : "ablobblastoff",
-      "type" : ".gif"
-    },
-    {
-      "name" : "abongoblob",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobamused",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobthinkingfast",
-      "type" : ".gif"
-    },
-    {
-      "name" : "ablobzerogravity",
-      "type" : ".gif"
-    },
-    {
-      "name" : "blobsadpats",
-      "type" : ".png"
-    },
-    {
-      "name" : "blobcomfort",
+      "name" : "hmmmmm",
       "type" : ".png"
     },
     {
       "type" : ".gif",
-      "name" : "ablobwoahsnow"
+      "name" : "margio"
     },
     {
-      "name" : "amegablobsweats",
+      "name" : "PandaPeek",
+      "type" : ".gif"
+    },
+    {
+      "name" : "nutella",
+      "type" : ".png"
+    },
+    {
+      "name" : "milkphone",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "blobhug2"
+      "name" : "ThumbsDown"
+    },
+    {
+      "type" : ".gif",
+      "name" : "bearhmph"
+    },
+    {
+      "name" : "wtf",
+      "type" : ".png"
+    },
+    {
+      "name" : "him",
+      "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobbanhammer"
+      "name" : "diditachisaythighs"
     },
     {
-      "name" : "blobconcerned",
+      "name" : "ani",
       "type" : ".png"
     },
     {
-      "name" : "blobreachfrown",
+      "name" : "not_hehe",
       "type" : ".png"
     },
     {
       "type" : ".gif",
-      "name" : "ablobenjoyrain"
+      "name" : "smart"
+    },
+    {
+      "name" : "catjam",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "gud"
     },
     {
       "type" : ".png",
-      "name" : "blobhyperthinkfast"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobeyesup"
-    },
-    {
-      "name" : "ablobtrans",
-      "type" : ".gif"
-    },
-    {
-      "name" : "photoblob",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobhype",
-      "type" : ".gif"
+      "name" : "coownerabuse"
     },
     {
       "type" : ".png",
-      "name" : "blobowo2"
-    },
-    {
-      "name" : "blobyes",
-      "type" : ".png"
-    },
-    {
-      "name" : "wolfiriblob",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobgoodnightreverse",
-      "type" : ".gif"
+      "name" : "feelsbanman"
     },
     {
       "type" : ".gif",
-      "name" : "ablobsad"
+      "name" : "nyaSmartNod"
     },
     {
-      "name" : "ablobnod",
+      "name" : "pineapplepizza",
+      "type" : ".png"
+    },
+    {
+      "name" : "PanScarred",
+      "type" : ".png"
+    },
+    {
+      "name" : "rickroll",
       "type" : ".gif"
     },
     {
       "type" : ".png",
-      "name" : "blobaww"
+      "name" : "defnotKont"
     },
     {
-      "name" : "blobdizzy2",
+      "name" : "weirdo",
       "type" : ".png"
     },
     {
-      "name" : "blobreach",
+      "name" : "byebye",
+      "type" : ".gif"
+    },
+    {
+      "name" : "pepedoor",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "cutecat"
+    },
+    {
+      "name" : "bully",
       "type" : ".png"
     },
     {
-      "type" : ".gif",
-      "name" : "ablobwave"
-    },
-    {
-      "type" : ".gif",
-      "name" : "ablobnodfast"
+      "name" : "breadmf",
+      "type" : ".png"
     },
     {
       "type" : ".png",
-      "name" : "blobdoubtful"
+      "name" : "ohmy"
     },
     {
       "type" : ".gif",
-      "name" : "ablobplsnospam"
+      "name" : "PandaPingRee"
     },
     {
-      "name" : "ablobdundundun",
+      "type" : ".png",
+      "name" : "nerdbelow"
+    },
+    {
+      "type" : ".png",
+      "name" : "yikes"
+    },
+    {
+      "name" : "pepesaber",
       "type" : ".gif"
     },
     {
-      "name" : "bolb",
+      "type" : ".png",
+      "name" : "feelsthinkman"
+    },
+    {
+      "type" : ".gif",
+      "name" : "hug"
+    },
+    {
+      "type" : ".png",
+      "name" : "jaswhack"
+    },
+    {
+      "name" : "tearsofjoyy",
       "type" : ".png"
     },
     {
-      "name" : "blobgoodmorning",
-      "type" : ".png"
-    },
-    {
-      "name" : "ablobwhee",
+      "name" : "huh",
       "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "thanks"
+    },
+    {
+      "type" : ".png",
+      "name" : "umm"
+    },
+    {
+      "name" : "potatochatded",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "joe"
+    },
+    {
+      "name" : "peabrain",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "pepeshy"
+    },
+    {
+      "name" : "cdrfat",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "enter"
+    },
+    {
+      "type" : ".png",
+      "name" : "WokePepe"
+    },
+    {
+      "name" : "sohot",
+      "type" : ".png"
+    },
+    {
+      "name" : "somuchtea",
+      "type" : ".gif"
+    },
+    {
+      "name" : "CoolMoney",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "MonkaEyes"
+    },
+    {
+      "type" : ".gif",
+      "name" : "pray"
+    },
+    {
+      "name" : "Eli",
+      "type" : ".png"
+    },
+    {
+      "name" : "monkaHmm",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "man"
+    },
+    {
+      "name" : "headSmashCry",
+      "type" : ".gif"
+    },
+    {
+      "name" : "pepet",
+      "type" : ".gif"
+    },
+    {
+      "name" : "speedyeyes",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "pepeOK"
+    },
+    {
+      "name" : "pepefloorcry",
+      "type" : ".png"
+    },
+    {
+      "name" : "ToadScream",
+      "type" : ".gif"
+    },
+    {
+      "name" : "shyplease",
+      "type" : ".png"
+    },
+    {
+      "name" : "pepecute",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "thonkdisintegrate"
+    },
+    {
+      "name" : "swagdoge",
+      "type" : ".png"
+    },
+    {
+      "name" : "mushi",
+      "type" : ".png"
+    },
+    {
+      "name" : "bearrockstarguitar",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "PanFiteMe"
+    },
+    {
+      "name" : "myman",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "PartnerShine"
+    },
+    {
+      "type" : ".gif",
+      "name" : "asweat"
+    },
+    {
+      "type" : ".png",
+      "name" : "calm"
+    },
+    {
+      "type" : ".gif",
+      "name" : "caughtin4k"
+    },
+    {
+      "name" : "cutelurk",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "wrongchannel"
+    },
+    {
+      "type" : ".png",
+      "name" : "shutupkont"
+    },
+    {
+      "type" : ".png",
+      "name" : "itachi"
+    },
+    {
+      "type" : ".png",
+      "name" : "unshut"
+    },
+    {
+      "name" : "PepeYikes",
+      "type" : ".png"
+    },
+    {
+      "name" : "milkshy",
+      "type" : ".png"
+    },
+    {
+      "name" : "SlySalutes",
+      "type" : ".gif"
+    },
+    {
+      "name" : "obamabanana",
+      "type" : ".gif"
+    },
+    {
+      "name" : "dommunism",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "deadinside"
+    },
+    {
+      "type" : ".gif",
+      "name" : "rolleypolley"
+    },
+    {
+      "name" : "Gn",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "her"
+    },
+    {
+      "name" : "idk_anything",
+      "type" : ".png"
+    },
+    {
+      "name" : "PepeAwkward",
+      "type" : ".png"
+    },
+    {
+      "name" : "burn",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "ada"
+    },
+    {
+      "name" : "pepeevil",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "soSad"
+    },
+    {
+      "name" : "pepecry",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "bearohyedance"
+    },
+    {
+      "type" : ".gif",
+      "name" : "PeepoClap"
+    },
+    {
+      "type" : ".png",
+      "name" : "ohyou"
+    },
+    {
+      "type" : ".png",
+      "name" : "badbad"
+    },
+    {
+      "type" : ".gif",
+      "name" : "Yoda"
+    },
+    {
+      "name" : "bigbrain",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "Gohan"
+    },
+    {
+      "type" : ".png",
+      "name" : "PepeYes"
+    },
+    {
+      "type" : ".gif",
+      "name" : "KekGiggle"
+    },
+    {
+      "name" : "sadcat",
+      "type" : ".gif"
+    },
+    {
+      "name" : "mmaBiteMilkMocha",
+      "type" : ".gif"
+    },
+    {
+      "name" : "peeklove",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "hello"
+    },
+    {
+      "name" : "pepehype",
+      "type" : ".gif"
+    },
+    {
+      "name" : "kawaiihehe",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "cheerydance"
+    },
+    {
+      "type" : ".png",
+      "name" : "altacc"
+    },
+    {
+      "type" : ".png",
+      "name" : "sadge"
+    },
+    {
+      "type" : ".png",
+      "name" : "mochakiss"
+    },
+    {
+      "name" : "Hat",
+      "type" : ".png"
+    },
+    {
+      "name" : "StaffAbooz",
+      "type" : ".png"
+    },
+    {
+      "name" : "money",
+      "type" : ".png"
+    },
+    {
+      "name" : "PepeHype",
+      "type" : ".png"
+    },
+    {
+      "name" : "uwu_duck",
+      "type" : ".png"
+    },
+    {
+      "name" : "truetrue",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "thonk"
+    },
+    {
+      "type" : ".png",
+      "name" : "what"
+    },
+    {
+      "name" : "joethehoe",
+      "type" : ".png"
+    },
+    {
+      "name" : "milkkiss",
+      "type" : ".png"
+    },
+    {
+      "name" : "WhatTheFuckIsWrongWithYouBitch",
+      "type" : ".png"
+    },
+    {
+      "name" : "UwU",
+      "type" : ".png"
+    },
+    {
+      "name" : "yescat",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "pandanuke"
+    },
+    {
+      "name" : "shake",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "potatostars"
+    },
+    {
+      "name" : "laugh",
+      "type" : ".gif"
+    },
+    {
+      "name" : "PogChamp",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "PepeNo"
+    },
+    {
+      "type" : ".gif",
+      "name" : "triggered"
+    },
+    {
+      "type" : ".png",
+      "name" : "catcri"
+    },
+    {
+      "name" : "MoneyMakersAbooz",
+      "type" : ".png"
+    },
+    {
+      "name" : "Cevert",
+      "type" : ".gif"
+    },
+    {
+      "name" : "UnoReverse",
+      "type" : ".gif"
+    },
+    {
+      "name" : "pepec",
+      "type" : ".gif"
+    },
+    {
+      "name" : "peek",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "PepeHappy"
+    },
+    {
+      "name" : "meandyou",
+      "type" : ".png"
+    },
+    {
+      "name" : "mjpain",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "saadkitty"
+    },
+    {
+      "name" : "pikaheart",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "cev"
+    },
+    {
+      "name" : "whiteheart",
+      "type" : ".gif"
+    },
+    {
+      "name" : "RooClap",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "mmaDrinkSpitShockMocha"
+    },
+    {
+      "type" : ".gif",
+      "name" : "pandacrieslot"
+    },
+    {
+      "name" : "mj_cute",
+      "type" : ".png"
+    },
+    {
+      "name" : "MochaSleepy",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "PepeCrazy"
+    },
+    {
+      "name" : "cheemshug",
+      "type" : ".png"
+    },
+    {
+      "name" : "kannajail",
+      "type" : ".png"
+    },
+    {
+      "name" : "Woah",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "Wtf"
+    },
+    {
+      "type" : ".png",
+      "name" : "mono"
+    },
+    {
+      "name" : "presclown",
+      "type" : ".png"
+    },
+    {
+      "name" : "mochaKick",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MonkaPray"
+    },
+    {
+      "name" : "MilkHeart",
+      "type" : ".png"
+    },
+    {
+      "name" : "Awee",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "MoneySmirk"
+    },
+    {
+      "name" : "flowerforu",
+      "type" : ".png"
+    },
+    {
+      "name" : "rickrollblob",
+      "type" : ".gif"
+    },
+    {
+      "name" : "stressed",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "woagcat"
+    },
+    {
+      "type" : ".png",
+      "name" : "potatopistol"
+    },
+    {
+      "type" : ".gif",
+      "name" : "pepeJAM"
+    },
+    {
+      "type" : ".gif",
+      "name" : "mmaComfortSadPat"
+    },
+    {
+      "type" : ".png",
+      "name" : "kirbywoah"
+    },
+    {
+      "name" : "bobacat",
+      "type" : ".gif"
+    },
+    {
+      "name" : "shutupmarg",
+      "type" : ".png"
+    },
+    {
+      "name" : "nonono",
+      "type" : ".gif"
+    },
+    {
+      "name" : "pepepizza",
+      "type" : ".gif"
+    },
+    {
+      "name" : "PanGSip",
+      "type" : ".gif"
+    },
+    {
+      "name" : "yummy",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "jerryrelaxed"
+    },
+    {
+      "name" : "pepeRun",
+      "type" : ".gif"
+    },
+    {
+      "name" : "keki",
+      "type" : ".png"
+    },
+    {
+      "name" : "peepoHappyLove",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "sippika"
+    },
+    {
+      "name" : "mmPartyCelebrateMilk",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "snorlaxlove"
+    },
+    {
+      "name" : "mmaWipeTears",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "Nikki"
+    },
+    {
+      "name" : "monkaStab",
+      "type" : ".png"
+    },
+    {
+      "name" : "nyabanban",
+      "type" : ".png"
+    },
+    {
+      "name" : "sendtoes",
+      "type" : ".png"
+    },
+    {
+      "name" : "DogKek",
+      "type" : ".png"
+    },
+    {
+      "name" : "catcryclown",
+      "type" : ".png"
+    },
+    {
+      "name" : "Awww",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".gif",
+      "name" : "bruhh"
+    },
+    {
+      "type" : ".png",
+      "name" : "greendash"
+    },
+    {
+      "name" : "catpeek",
+      "type" : ".gif"
+    },
+    {
+      "name" : "uwu_bear",
+      "type" : ".png"
+    },
+    {
+      "name" : "ufff",
+      "type" : ".png"
+    },
+    {
+      "name" : "smack",
+      "type" : ".png"
+    },
+    {
+      "name" : "catkiss",
+      "type" : ".gif"
+    },
+    {
+      "name" : "MilkHi",
+      "type" : ".png"
+    },
+    {
+      "type" : ".gif",
+      "name" : "nodnod"
+    },
+    {
+      "name" : "pikacry",
+      "type" : ".png"
+    },
+    {
+      "name" : "fruit",
+      "type" : ".png"
+    },
+    {
+      "name" : "didiask",
+      "type" : ".png"
+    },
+    {
+      "name" : "Alvin",
+      "type" : ".png"
+    },
+    {
+      "name" : "bruh",
+      "type" : ".png"
+    },
+    {
+      "name" : "peepoStonksNot",
+      "type" : ".png"
+    },
+    {
+      "name" : "POGGY",
+      "type" : ".png"
+    },
+    {
+      "name" : "joeschaos",
+      "type" : ".gif"
+    },
+    {
+      "name" : "PepeScam",
+      "type" : ".png"
+    },
+    {
+      "name" : "stitchwakeup",
+      "type" : ".gif"
+    },
+    {
+      "name" : "mochashy",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "nyaSad"
+    },
+    {
+      "name" : "ThumbsUp",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "salad"
+    },
+    {
+      "name" : "milkmochahug",
+      "type" : ".gif"
+    },
+    {
+      "name" : "weariest",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "pain"
+    },
+    {
+      "name" : "funny",
+      "type" : ".png"
+    },
+    {
+      "name" : "modabuse",
+      "type" : ".png"
+    },
+    {
+      "name" : "PepeMoneyRain",
+      "type" : ".gif"
+    },
+    {
+      "type" : ".png",
+      "name" : "lambo"
+    },
+    {
+      "name" : "nopestar",
+      "type" : ".png"
+    },
+    {
+      "name" : "exit",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "cryIgnore"
+    },
+    {
+      "name" : "Toothless",
+      "type" : ".gif"
+    },
+    {
+      "name" : "blushblush",
+      "type" : ".png"
+    },
+    {
+      "name" : "pepenou",
+      "type" : ".gif"
+    },
+    {
+      "name" : "Nitro_Boost",
+      "type" : ".gif"
+    },
+    {
+      "name" : "tommywtf",
+      "type" : ".png"
+    },
+    {
+      "name" : "hehe",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "slippyPeepo"
+    },
+    {
+      "name" : "this",
+      "type" : ".png"
+    },
+    {
+      "name" : "pepeRules",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "AngryWtf"
+    },
+    {
+      "name" : "PandaRich",
+      "type" : ".png"
+    },
+    {
+      "name" : "thisisfine",
+      "type" : ".gif"
+    },
+    {
+      "name" : "shrug",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "whatpepe"
+    },
+    {
+      "type" : ".png",
+      "name" : "plead"
+    },
+    {
+      "type" : ".gif",
+      "name" : "whysodumb"
+    },
+    {
+      "type" : ".png",
+      "name" : "yellowheart"
+    },
+    {
+      "type" : ".gif",
+      "name" : "goldfishcev"
+    },
+    {
+      "name" : "MonkaS",
+      "type" : ".png"
+    },
+    {
+      "name" : "closedc",
+      "type" : ".gif"
+    },
+    {
+      "name" : "pepem",
+      "type" : ".gif"
+    },
+    {
+      "name" : "StopItGetSomeHelp",
+      "type" : ".gif"
+    },
+    {
+      "name" : "kittypat",
+      "type" : ".png"
+    },
+    {
+      "type" : ".png",
+      "name" : "PikaThink"
+    },
+    {
+      "type" : ".png",
+      "name" : "AstridSwag"
     }
   ],
-  "name" : "Lucy's Other Emotes"
+  "path" : "emotes"
 }
